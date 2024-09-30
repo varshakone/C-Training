@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Training\TypesApp\bin\Debug\TypesApp.exe.config
+D:\Hexaware Training\C#Training\TypesApp\bin\Debug\TypesApp.exe
+D:\Hexaware Training\C#Training\TypesApp\bin\Debug\TypesApp.pdb
+D:\Hexaware Training\C#Training\TypesApp\obj\Debug\TypesApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\TypesApp\obj\Debug\TypesApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\TypesApp\obj\Debug\TypesApp.exe
+D:\Hexaware Training\C#Training\TypesApp\obj\Debug\TypesApp.pdb

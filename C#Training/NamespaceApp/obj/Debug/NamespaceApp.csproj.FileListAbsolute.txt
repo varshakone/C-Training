@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Training\NamespaceApp\obj\Debug\NamespaceApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\NamespaceApp\obj\Debug\NamespaceApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\NamespaceApp\bin\Debug\NamespaceApp.exe.config
+D:\Hexaware Training\C#Training\NamespaceApp\bin\Debug\NamespaceApp.exe
+D:\Hexaware Training\C#Training\NamespaceApp\bin\Debug\NamespaceApp.pdb
+D:\Hexaware Training\C#Training\NamespaceApp\bin\Debug\TraineeLibrary.dll
+D:\Hexaware Training\C#Training\NamespaceApp\bin\Debug\TraineeLibrary.pdb
+D:\Hexaware Training\C#Training\NamespaceApp\obj\Debug\Namespac.ADC789D0.Up2Date
+D:\Hexaware Training\C#Training\NamespaceApp\obj\Debug\NamespaceApp.exe
+D:\Hexaware Training\C#Training\NamespaceApp\obj\Debug\NamespaceApp.pdb

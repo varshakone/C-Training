@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\bin\Debug\MyFirstConsoleAPP_Assembly.pdb
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\obj\Debug\MyFirstConsoleAPP_Assembly.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\obj\Debug\MyFirstConsoleAPP_Assembly.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\obj\Debug\MyFirstConsoleAPP_Assembly.pdb
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\bin\Debug\MyFirstConsoleAPP_Assembly.exe.config
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\bin\Debug\MyFirstConsoleAPP_Assembly.exe
+D:\Hexaware Training\C#Training\MyFirstConsoleAPP_Assembly\obj\Debug\MyFirstConsoleAPP_Assembly.exe

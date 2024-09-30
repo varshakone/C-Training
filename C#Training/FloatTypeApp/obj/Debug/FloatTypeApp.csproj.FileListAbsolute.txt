@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Training\FloatTypeApp\bin\Debug\FloatTypeApp.exe.config
+D:\Hexaware Training\C#Training\FloatTypeApp\bin\Debug\FloatTypeApp.exe
+D:\Hexaware Training\C#Training\FloatTypeApp\bin\Debug\FloatTypeApp.pdb
+D:\Hexaware Training\C#Training\FloatTypeApp\obj\Debug\FloatTypeApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\FloatTypeApp\obj\Debug\FloatTypeApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\FloatTypeApp\obj\Debug\FloatTypeApp.exe
+D:\Hexaware Training\C#Training\FloatTypeApp\obj\Debug\FloatTypeApp.pdb

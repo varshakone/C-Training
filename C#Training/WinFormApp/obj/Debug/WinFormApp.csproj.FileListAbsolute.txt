@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Training\WinFormApp\bin\Debug\WinFormApp.exe.config
+D:\Hexaware Training\C#Training\WinFormApp\bin\Debug\WinFormApp.exe
+D:\Hexaware Training\C#Training\WinFormApp\bin\Debug\WinFormApp.pdb
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.exe
+D:\Hexaware Training\C#Training\WinFormApp\obj\Debug\WinFormApp.pdb

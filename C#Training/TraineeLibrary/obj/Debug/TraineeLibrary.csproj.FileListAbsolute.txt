@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Training\TraineeLibrary\bin\Debug\TraineeLibrary.dll
+D:\Hexaware Training\C#Training\TraineeLibrary\bin\Debug\TraineeLibrary.pdb
+D:\Hexaware Training\C#Training\TraineeLibrary\obj\Debug\TraineeLibrary.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Training\TraineeLibrary\obj\Debug\TraineeLibrary.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Training\TraineeLibrary\obj\Debug\TraineeLibrary.dll
+D:\Hexaware Training\C#Training\TraineeLibrary\obj\Debug\TraineeLibrary.pdb

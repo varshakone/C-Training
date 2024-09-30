@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Training\\MyFirstConsoleAPP_Assembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCFBA8F-0865-4D53-91CD-E6A3BF5F2008}|..\\CharAndStringTypeApp\\CharAndStringTypeApp.csproj|d:\\hexaware training\\c#training\\charandstringtypeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2C30C-17AB-4609-B8B4-29A76E711D69}|..\\NullableTypeApp\\NullableTypeApp.csproj|d:\\hexaware training\\c#training\\nullabletypeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E45488F-3CB9-4BD7-BAEF-6060985081BC}|..\\TypesApp\\TypesApp.csproj|d:\\hexaware training\\c#training\\typesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Training\\CharAndStringTypeApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CharAndStringTypeApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Training\\CharAndStringTypeApp\\Program.cs",
+              "RelativeToolTip": "..\\CharAndStringTypeApp\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:45:27.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Training\\NullableTypeApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NullableTypeApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Training\\NullableTypeApp\\Program.cs",
+              "RelativeToolTip": "..\\NullableTypeApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:20:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Training\\TypesApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TypesApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Training\\TypesApp\\Program.cs",
+              "RelativeToolTip": "..\\TypesApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:57:27.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
