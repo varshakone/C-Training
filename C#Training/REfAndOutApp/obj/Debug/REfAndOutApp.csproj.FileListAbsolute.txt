@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\bin\Debug\REfAndOutApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\bin\Debug\REfAndOutApp.exe
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\bin\Debug\REfAndOutApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\obj\Debug\REfAndOutApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\obj\Debug\REfAndOutApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\obj\Debug\REfAndOutApp.exe
+D:\Hexaware Training\C#Repo\C#Training\REfAndOutApp\obj\Debug\REfAndOutApp.pdb

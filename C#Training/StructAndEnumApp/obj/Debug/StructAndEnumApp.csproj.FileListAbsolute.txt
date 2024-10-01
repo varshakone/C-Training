@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\bin\Debug\StructAndEnumApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\bin\Debug\StructAndEnumApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\bin\Debug\StructAndEnumApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\obj\Debug\StructAndEnumApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\obj\Debug\StructAndEnumApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\obj\Debug\StructAndEnumApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StructAndEnumApp\obj\Debug\StructAndEnumApp.pdb

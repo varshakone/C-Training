@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Hexaware Training\C#Repo\C#Training\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

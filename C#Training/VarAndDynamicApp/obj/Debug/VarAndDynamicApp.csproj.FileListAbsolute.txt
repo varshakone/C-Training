@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\bin\Debug\VarAndDynamicApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\bin\Debug\VarAndDynamicApp.exe
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\bin\Debug\VarAndDynamicApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\obj\Debug\VarAndDynamicApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\obj\Debug\VarAndDynamicApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\obj\Debug\VarAndDynamicApp.exe
+D:\Hexaware Training\C#Repo\C#Training\VarAndDynamicApp\obj\Debug\VarAndDynamicApp.pdb

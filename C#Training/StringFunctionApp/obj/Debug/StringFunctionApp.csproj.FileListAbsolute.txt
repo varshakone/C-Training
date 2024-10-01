@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\bin\Debug\StringFunctionApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\bin\Debug\StringFunctionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\bin\Debug\StringFunctionApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\obj\Debug\StringFunctionApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\obj\Debug\StringFunctionApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\obj\Debug\StringFunctionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StringFunctionApp\obj\Debug\StringFunctionApp.pdb

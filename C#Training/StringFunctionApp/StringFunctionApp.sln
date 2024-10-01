@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctionApp", "StringFunctionApp.csproj", "{98E192EA-6055-478C-9146-8AD7FAB2D7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REfAndOutApp", "..\REfAndOutApp\REfAndOutApp.csproj", "{F17B8C45-FF4B-4AB2-BF7A-7753674F0018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{2DD5B24C-AB47-41A9-A82B-05D878C59EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarAndDynamicApp", "..\VarAndDynamicApp\VarAndDynamicApp.csproj", "{D780FC5D-1BAB-4F77-B77F-3E78647F0B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstAndReadonlyApp", "..\ConstAndReadonlyApp\ConstAndReadonlyApp.csproj", "{FAEF666D-11C6-4B98-BD07-05AA1C24399C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeApp", "..\DateTimeApp\DateTimeApp.csproj", "{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructAndEnumApp", "..\StructAndEnumApp\StructAndEnumApp.csproj", "{CEEA414E-7EEC-493F-973E-2217266CAB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E192EA-6055-478C-9146-8AD7FAB2D7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E192EA-6055-478C-9146-8AD7FAB2D7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E192EA-6055-478C-9146-8AD7FAB2D7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E192EA-6055-478C-9146-8AD7FAB2D7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17B8C45-FF4B-4AB2-BF7A-7753674F0018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17B8C45-FF4B-4AB2-BF7A-7753674F0018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17B8C45-FF4B-4AB2-BF7A-7753674F0018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17B8C45-FF4B-4AB2-BF7A-7753674F0018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD5B24C-AB47-41A9-A82B-05D878C59EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD5B24C-AB47-41A9-A82B-05D878C59EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD5B24C-AB47-41A9-A82B-05D878C59EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD5B24C-AB47-41A9-A82B-05D878C59EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D780FC5D-1BAB-4F77-B77F-3E78647F0B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D780FC5D-1BAB-4F77-B77F-3E78647F0B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D780FC5D-1BAB-4F77-B77F-3E78647F0B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D780FC5D-1BAB-4F77-B77F-3E78647F0B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEF666D-11C6-4B98-BD07-05AA1C24399C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEF666D-11C6-4B98-BD07-05AA1C24399C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEF666D-11C6-4B98-BD07-05AA1C24399C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEF666D-11C6-4B98-BD07-05AA1C24399C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEA414E-7EEC-493F-973E-2217266CAB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEA414E-7EEC-493F-973E-2217266CAB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEA414E-7EEC-493F-973E-2217266CAB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEA414E-7EEC-493F-973E-2217266CAB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29DA1CA9-A8F2-4979-8017-BA2FA3ED24B6}
+	EndGlobalSection
+EndGlobal
