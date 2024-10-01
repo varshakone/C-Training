@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\bin\Debug\JaggedArrayApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\bin\Debug\JaggedArrayApp.exe
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\bin\Debug\JaggedArrayApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\obj\Debug\JaggedArrayApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\obj\Debug\JaggedArrayApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\obj\Debug\JaggedArrayApp.exe
+D:\Hexaware Training\C#Repo\C#Training\JaggedArrayApp\obj\Debug\JaggedArrayApp.pdb

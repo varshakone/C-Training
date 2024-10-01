@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\bin\Debug\OneDArray.exe.config
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\bin\Debug\OneDArray.exe
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\bin\Debug\OneDArray.pdb
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\obj\Debug\OneDArray.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\obj\Debug\OneDArray.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\obj\Debug\OneDArray.exe
+D:\Hexaware Training\C#Repo\C#Training\OneDArray\obj\Debug\OneDArray.pdb

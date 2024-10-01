@@ -10,11 +10,13 @@ namespace StructAndEnumApp
     {
         static void Main(string[] args)
         {
-            Book book = new Book(101,"Android","Android",publishMonth.January);
+            Book book = new Book(101, "Android", "Android", publishMonth.January);
 
-            var bookdetails= book.getBookList();
+            var bookdetails = book.getBookList();
 
             Console.WriteLine(bookdetails);
+        
+
             Console.ReadKey();
         }
     }

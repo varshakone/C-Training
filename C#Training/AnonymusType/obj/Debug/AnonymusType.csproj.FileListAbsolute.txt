@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\bin\Debug\AnonymusType.exe.config
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\bin\Debug\AnonymusType.exe
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\bin\Debug\AnonymusType.pdb
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\obj\Debug\AnonymusType.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\obj\Debug\AnonymusType.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\obj\Debug\AnonymusType.exe
+D:\Hexaware Training\C#Repo\C#Training\AnonymusType\obj\Debug\AnonymusType.pdb

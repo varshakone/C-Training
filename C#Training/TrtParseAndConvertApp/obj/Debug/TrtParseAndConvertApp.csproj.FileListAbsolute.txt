@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\bin\Debug\TrtParseAndConvertApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\bin\Debug\TrtParseAndConvertApp.exe
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\bin\Debug\TrtParseAndConvertApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\obj\Debug\TrtParseAndConvertApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\obj\Debug\TrtParseAndConvertApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\obj\Debug\TrtParseAndConvertApp.exe
+D:\Hexaware Training\C#Repo\C#Training\TrtParseAndConvertApp\obj\Debug\TrtParseAndConvertApp.pdb

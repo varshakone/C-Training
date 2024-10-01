@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\bin\Debug\IsOperatorApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\bin\Debug\IsOperatorApp.exe
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\bin\Debug\IsOperatorApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\obj\Debug\IsOperatorApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\obj\Debug\IsOperatorApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\obj\Debug\IsOperatorApp.exe
+D:\Hexaware Training\C#Repo\C#Training\IsOperatorApp\obj\Debug\IsOperatorApp.pdb

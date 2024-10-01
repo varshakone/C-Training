@@ -3,10 +3,34 @@
   "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\StringFunctionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEEA414E-7EEC-493F-973E-2217266CAB3E}|..\\StructAndEnumApp\\StructAndEnumApp.csproj|d:\\hexaware training\\c#repo\\c#training\\structandenumapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9858CDE-B619-4FD3-8263-67C849ABD6A4}|..\\TrtParseAndConvertApp\\TrtParseAndConvertApp.csproj|d:\\hexaware training\\c#repo\\c#training\\trtparseandconvertapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0C0FC0-6DFC-4F77-88F7-42ADE35823FA}|..\\JaggedArrayApp\\JaggedArrayApp.csproj|d:\\hexaware training\\c#repo\\c#training\\jaggedarrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB052DB-C204-4E4C-B4BC-CDB5B412E956}|..\\TwoDArrayApp\\TwoDArrayApp.csproj|d:\\hexaware training\\c#repo\\c#training\\twodarrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066C06DA-7CE2-4B6A-A59D-1EDECEFD072B}|..\\OneDArray\\OneDArray.csproj|d:\\hexaware training\\c#repo\\c#training\\onedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C0296B-19AB-43FB-99FB-483F43E658E7}|..\\AsOperator\\AsOperator.csproj|d:\\hexaware training\\c#repo\\c#training\\asoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788AF3A-1E53-44D9-86EC-0596B8481E3D}|..\\IsOperatorApp\\IsOperatorApp.csproj|d:\\hexaware training\\c#repo\\c#training\\isoperatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFBA167-ADAA-4450-8EDD-69BB536BD31E}|..\\AnonymusType\\AnonymusType.csproj|d:\\hexaware training\\c#repo\\c#training\\anonymustype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337AEF0-5B4E-4807-91EB-4793DA4F3D68}|..\\StringBuilderApp\\StringBuilderApp.csproj|d:\\hexaware training\\c#repo\\c#training\\stringbuilderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEEA414E-7EEC-493F-973E-2217266CAB3E}|..\\StructAndEnumApp\\StructAndEnumApp.csproj|d:\\hexaware training\\c#repo\\c#training\\structandenumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEA414E-7EEC-493F-973E-2217266CAB3E}|..\\StructAndEnumApp\\StructAndEnumApp.csproj|d:\\hexaware training\\c#repo\\c#training\\structandenumapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAEEFE10-A80F-4073-859F-1CC068DA0F4E}|..\\DateTimeApp\\DateTimeApp.csproj|d:\\hexaware training\\c#repo\\c#training\\datetimeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -28,15 +52,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TrtParseAndConvertApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TrtParseAndConvertApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TrtParseAndConvertApp\\Program.cs",
+              "RelativeToolTip": "..\\TrtParseAndConvertApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:04:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\JaggedArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\JaggedArrayApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\JaggedArrayApp\\Program.cs",
+              "RelativeToolTip": "..\\JaggedArrayApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:45:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TwoDArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TwoDArrayApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TwoDArrayApp\\Program.cs",
+              "RelativeToolTip": "..\\TwoDArrayApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:25:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\OneDArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OneDArray\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\OneDArray\\Program.cs",
+              "RelativeToolTip": "..\\OneDArray\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:38:41.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AsOperator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AsOperator\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AsOperator\\Program.cs",
+              "RelativeToolTip": "..\\AsOperator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:25:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\IsOperatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\IsOperatorApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\IsOperatorApp\\Program.cs",
+              "RelativeToolTip": "..\\IsOperatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:10:31.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AnonymusType\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AnonymusType\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AnonymusType\\Program.cs",
+              "RelativeToolTip": "..\\AnonymusType\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:58:19.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\StringBuilderApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringBuilderApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\StringBuilderApp\\Program.cs",
+              "RelativeToolTip": "..\\StringBuilderApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:39:51.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\StructAndEnumApp\\Book.cs",
               "RelativeDocumentMoniker": "..\\StructAndEnumApp\\Book.cs",
@@ -49,20 +173,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\StructAndEnumApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\StructAndEnumApp\\Program.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\StructAndEnumApp\\Program.cs",
               "RelativeToolTip": "..\\StructAndEnumApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T05:58:44.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\DateTimeApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\DateTimeApp\\Program.cs",
@@ -70,12 +194,11 @@
               "RelativeToolTip": "..\\DateTimeApp\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T05:48:48.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T05:48:48.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "DateTimeDemo.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\bc8c39f1-9629-4073-b63b-43bc649e1ee6_Demos.zip.ee6\\DateTimeApiDemo\\DateTimeApiDemo\\DateTimeDemo.cs",
               "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\bc8c39f1-9629-4073-b63b-43bc649e1ee6_Demos.zip.ee6\\DateTimeApiDemo\\DateTimeApiDemo\\DateTimeDemo.cs [Read Only]",
@@ -86,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\VarAndDynamicApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\VarAndDynamicApp\\Program.cs",
@@ -94,12 +217,11 @@
               "RelativeToolTip": "..\\VarAndDynamicApp\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T04:49:11.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T04:49:11.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\REfAndOutApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\REfAndOutApp\\Program.cs",
@@ -107,8 +229,7 @@
               "RelativeToolTip": "..\\REfAndOutApp\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T04:04:44.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T04:04:44.325Z"
             }
           ]
         }
