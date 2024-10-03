@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\bin\Debug\AccessmodifierApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\bin\Debug\AccessmodifierApp.exe
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\bin\Debug\AccessmodifierApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\bin\Debug\AccessModifierLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\bin\Debug\AccessModifierLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\obj\Debug\AccessmodifierApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\obj\Debug\AccessmodifierApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\obj\Debug\Accessmo.C408D688.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\obj\Debug\AccessmodifierApp.exe
+D:\Hexaware Training\C#Repo\C#Training\AccessmodifierApp\obj\Debug\AccessmodifierApp.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\AccessModifierLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16EB06-7090-451E-96D2-D2EE4490228A}|AccessModifierLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\accessmodifierlibrary\\stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16EB06-7090-451E-96D2-D2EE4490228A}|AccessModifierLibrary.csproj|solutionrelative:stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE9C60-15BC-49E7-82AB-6F76630BE185}|..\\AccessmodifierApp\\AccessmodifierApp.csproj|d:\\hexaware training\\c#repo\\c#training\\accessmodifierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AccessmodifierApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AccessmodifierApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AccessmodifierApp\\Program.cs",
+              "RelativeToolTip": "..\\AccessmodifierApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:28:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringManipulation.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AccessModifierLibrary\\StringManipulation.cs",
+              "RelativeDocumentMoniker": "StringManipulation.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AccessModifierLibrary\\StringManipulation.cs",
+              "RelativeToolTip": "StringManipulation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:15:11.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

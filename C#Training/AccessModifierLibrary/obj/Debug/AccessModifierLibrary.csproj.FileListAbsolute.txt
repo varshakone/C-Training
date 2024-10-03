@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\bin\Debug\AccessModifierLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\bin\Debug\AccessModifierLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.pdb
