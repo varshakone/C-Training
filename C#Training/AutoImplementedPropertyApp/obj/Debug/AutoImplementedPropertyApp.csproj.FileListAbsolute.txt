@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\bin\Debug\AutoImplementedPropertyApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\bin\Debug\AutoImplementedPropertyApp.exe
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\bin\Debug\AutoImplementedPropertyApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\obj\Debug\AutoImplementedPropertyApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\obj\Debug\AutoImplementedPropertyApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\obj\Debug\AutoImplementedPropertyApp.exe
+D:\Hexaware Training\C#Repo\C#Training\AutoImplementedPropertyApp\obj\Debug\AutoImplementedPropertyApp.pdb
