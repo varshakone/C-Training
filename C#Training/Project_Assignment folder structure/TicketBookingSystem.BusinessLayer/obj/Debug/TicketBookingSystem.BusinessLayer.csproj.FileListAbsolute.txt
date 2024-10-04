@@ -7,3 +7,12 @@ D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.BusinessLayer\obj\Deb
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBo.DA6B1B29.Up2Date
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.dll
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.dll
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.dll
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.dll
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBo.DA6B1B29.Up2Date

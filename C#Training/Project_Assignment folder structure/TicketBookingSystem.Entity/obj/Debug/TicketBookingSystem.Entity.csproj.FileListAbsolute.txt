@@ -4,3 +4,9 @@ D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.Entity\obj\Debug\Tick
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.CoreCompileInputs.cache
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.dll
 D:\Hexaware Training\C#Repo\C#Training\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.dll
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.pdb
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.dll
+D:\Hexaware Training\C#Repo\C#Training\Project_Assignment folder structure\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.pdb

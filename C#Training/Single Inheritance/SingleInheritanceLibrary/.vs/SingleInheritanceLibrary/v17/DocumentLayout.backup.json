@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6581DDA4-5945-4BAD-A2DB-58CCC8C3013B}|..\\InterfaceApp\\InterfaceApp.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\interfaceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6581DDA4-5945-4BAD-A2DB-58CCC8C3013B}|..\\InterfaceApp\\InterfaceApp.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\interfaceapp\\istatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C936E8-7A3A-4122-B8A1-FAADE4C17182}|..\\AbstractClassApp\\AbstractClassApp.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\abstractclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90658345-CED8-4120-8CB7-07BE768D54AF}|..\\OverrideOrHideToStringMethod\\OverrideOrHideToStringMethod.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\overrideorhidetostringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF68C87D-AEB3-4643-B962-331356EE0E3F}|..\\MethodHiding\\MethodHiding.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB8EB8D4-6A60-4732-BFED-8B5D6E296FCA}|..\\SealedClassApp\\SealedClassApp.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\sealedclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +30,11 @@
       "AbsoluteMoniker": "D:0:0:{0E1202EF-5126-48E4-98C8-16F8F20F251A}|..\\EmployeeManagement\\EmployeeManagement.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\singleinheritancelibrary\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|solutionrelative:parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\singleinheritancelibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +50,11 @@
       "AbsoluteMoniker": "D:0:0:{F3829360-ABED-44B2-92A2-D3540FFE69BD}|..\\MultilevelInheritance\\MultilevelInheritance.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\multilevelinheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\singleinheritancelibrary\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|solutionrelative:fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\single inheritance\\singleinheritancelibrary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A68DCB7-01BA-4506-B557-B2F04DB33984}|SingleInheritanceLibrary.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,24 +65,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStatement.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\InterfaceApp\\IStatement.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceApp\\IStatement.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\InterfaceApp\\IStatement.cs",
+              "RelativeToolTip": "..\\InterfaceApp\\IStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:00:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\InterfaceApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\InterfaceApp\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceApp\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA0wDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:54:58.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\AbstractClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AbstractClassApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\AbstractClassApp\\Program.cs",
+              "RelativeToolTip": "..\\AbstractClassApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:31:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\OverrideOrHideToStringMethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OverrideOrHideToStringMethod\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\OverrideOrHideToStringMethod\\Program.cs",
+              "RelativeToolTip": "..\\OverrideOrHideToStringMethod\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:16:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MethodHiding\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MethodHiding\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MethodHiding\\Program.cs",
+              "RelativeToolTip": "..\\MethodHiding\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:01:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SealedClassApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\SealedClassApp\\Program.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SealedClassApp\\Program.cs",
               "RelativeToolTip": "..\\SealedClassApp\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T06:36:23.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Bank.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\Polymorphism_MethodOverriding\\Bank.cs",
               "RelativeDocumentMoniker": "..\\Polymorphism_MethodOverriding\\Bank.cs",
@@ -80,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\Polymorphism_MethodOverriding\\Program.cs",
               "RelativeDocumentMoniker": "..\\Polymorphism_MethodOverriding\\Program.cs",
@@ -93,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Developer.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MultilevelInheritance\\Developer.cs",
               "RelativeDocumentMoniker": "..\\MultilevelInheritance\\Developer.cs",
@@ -101,12 +181,11 @@
               "RelativeToolTip": "..\\MultilevelInheritance\\Developer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:42:33.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:42:33.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ScrumMaster.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MultilevelInheritance\\ScrumMaster.cs",
               "RelativeDocumentMoniker": "..\\MultilevelInheritance\\ScrumMaster.cs",
@@ -114,12 +193,11 @@
               "RelativeToolTip": "..\\MultilevelInheritance\\ScrumMaster.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:42:12.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:42:12.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MultilevelInheritance\\Employee.cs",
               "RelativeDocumentMoniker": "..\\MultilevelInheritance\\Employee.cs",
@@ -127,12 +205,11 @@
               "RelativeToolTip": "..\\MultilevelInheritance\\Employee.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:42:01.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:42:01.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\MultilevelInheritance\\Program.cs",
               "RelativeDocumentMoniker": "..\\MultilevelInheritance\\Program.cs",
@@ -140,12 +217,11 @@
               "RelativeToolTip": "..\\MultilevelInheritance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:41:45.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:41:45.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\EmployeeManagement\\Program.cs",
               "RelativeDocumentMoniker": "..\\EmployeeManagement\\Program.cs",
@@ -153,12 +229,11 @@
               "RelativeToolTip": "..\\EmployeeManagement\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T04:53:42.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T04:53:42.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "FullTime.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\FullTime.cs",
               "RelativeDocumentMoniker": "FullTime.cs",
@@ -171,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PartTime.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\PartTime.cs",
               "RelativeDocumentMoniker": "PartTime.cs",
@@ -184,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "salary.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\salary.cs",
               "RelativeDocumentMoniker": "salary.cs",
@@ -192,12 +267,11 @@
               "RelativeToolTip": "salary.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T04:04:44.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T04:04:44.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Single Inheritance\\SingleInheritanceLibrary\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
