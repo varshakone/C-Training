@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\bin\Debug\SingleInheritanceLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\bin\Debug\SingleInheritanceLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\obj\Debug\SingleInheritanceLibrary.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\obj\Debug\SingleInheritanceLibrary.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\obj\Debug\SingleInheritanceLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\Single Inheritance\SingleInheritanceLibrary\obj\Debug\SingleInheritanceLibrary.pdb

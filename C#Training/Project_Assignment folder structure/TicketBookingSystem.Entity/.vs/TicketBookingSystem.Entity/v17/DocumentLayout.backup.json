@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{DBD25F60-78F9-4B31-A1A9-00868F6E92BF}|..\\TicketBookingSystem.UI\\TicketBookingSystem.UI.csproj|d:\\hexaware training\\c#repo\\c#training\\ticketbookingsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|d:\\hexaware training\\c#repo\\c#training\\ticketbookingsystem.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.Entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,7 +30,7 @@
               "RelativeDocumentMoniker": "..\\TicketBookingSystem.UI\\Program.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs",
               "RelativeToolTip": "..\\TicketBookingSystem.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T09:02:16.681Z",
               "EditorCaption": ""
@@ -45,8 +45,7 @@
               "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:51:27.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:51:27.679Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:45:45.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:45:45.244Z"
             }
           ]
         }

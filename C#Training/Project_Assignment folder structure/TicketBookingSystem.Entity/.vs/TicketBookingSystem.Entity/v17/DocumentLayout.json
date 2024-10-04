@@ -1,16 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.Entity\\",
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBD25F60-78F9-4B31-A1A9-00868F6E92BF}|..\\TicketBookingSystem.UI\\TicketBookingSystem.UI.csproj|d:\\hexaware training\\c#repo\\c#training\\ticketbookingsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.Entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\ticketbookingsystem.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.BusinessLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,29 +23,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TicketBookingSystem.UI\\Program.cs",
-              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs",
-              "RelativeToolTip": "..\\TicketBookingSystem.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:02:16.681Z",
+              "WhenOpened": "2024-10-03T11:52:00.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\TicketBookingSystem.UI\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.UI\\Program.cs",
+              "RelativeToolTip": "..\\..\\TicketBookingSystem.UI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:02:16.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.BusinessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.BusinessLayer\\Class1.cs",
-              "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\..\\TicketBookingSystem.BusinessLayer\\Class1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T08:51:27.679Z"
@@ -51,13 +69,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.Entity\\Class1.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\TicketBookingSystem.Entity\\Class1.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:45:45.244Z"
+              "WhenOpened": "2024-10-03T08:45:45.244Z",
+              "EditorCaption": ""
             }
           ]
         }
