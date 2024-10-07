@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\bin\Debug\ActionDelegateApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\bin\Debug\ActionDelegateApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\bin\Debug\ActionDelegateApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\obj\Debug\ActionDelegateApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\obj\Debug\ActionDelegateApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\obj\Debug\ActionDelegateApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ActionDelegateApp\obj\Debug\ActionDelegateApp.pdb

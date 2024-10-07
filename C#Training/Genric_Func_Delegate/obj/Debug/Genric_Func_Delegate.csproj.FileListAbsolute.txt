@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\bin\Debug\Genric_Func_Delegate.exe.config
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\bin\Debug\Genric_Func_Delegate.exe
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\bin\Debug\Genric_Func_Delegate.pdb
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\obj\Debug\Genric_Func_Delegate.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\obj\Debug\Genric_Func_Delegate.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\obj\Debug\Genric_Func_Delegate.exe
+D:\Hexaware Training\C#Repo\C#Training\Genric_Func_Delegate\obj\Debug\Genric_Func_Delegate.pdb

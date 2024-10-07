@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\obj\Debug\PartialClassApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\obj\Debug\PartialClassApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\bin\Debug\PartialClassApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\bin\Debug\PartialClassApp.exe
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\bin\Debug\PartialClassApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\obj\Debug\PartialClassApp.exe
+D:\Hexaware Training\C#Repo\C#Training\PartialClassApp\obj\Debug\PartialClassApp.pdb

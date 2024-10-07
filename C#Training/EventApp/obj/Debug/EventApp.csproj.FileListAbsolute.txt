@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\EventApp\bin\Debug\EventApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\EventApp\bin\Debug\EventApp.exe
+D:\Hexaware Training\C#Repo\C#Training\EventApp\bin\Debug\EventApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\EventApp\obj\Debug\EventApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\EventApp\obj\Debug\EventApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\EventApp\obj\Debug\EventApp.exe
+D:\Hexaware Training\C#Repo\C#Training\EventApp\obj\Debug\EventApp.pdb

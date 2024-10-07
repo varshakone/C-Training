@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\bin\Debug\PredicateDelApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\bin\Debug\PredicateDelApp.exe
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\bin\Debug\PredicateDelApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\obj\Debug\PredicateDelApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\obj\Debug\PredicateDelApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\obj\Debug\PredicateDelApp.exe
+D:\Hexaware Training\C#Repo\C#Training\PredicateDelApp\obj\Debug\PredicateDelApp.pdb
