@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\bin\Debug\UserApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\bin\Debug\UserApp.exe
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\bin\Debug\UserApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\bin\Debug\UsernameValidationException.dll
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\bin\Debug\UsernameValidationException.pdb
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\obj\Debug\UserApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\obj\Debug\UserApp.csproj.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\obj\Debug\UserApp.exe
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UserApp\obj\Debug\UserApp.pdb

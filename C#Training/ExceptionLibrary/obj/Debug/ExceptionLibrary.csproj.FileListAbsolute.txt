@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\bin\Debug\ExceptionLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\bin\Debug\ExceptionLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\obj\Debug\ExceptionLibrary.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb

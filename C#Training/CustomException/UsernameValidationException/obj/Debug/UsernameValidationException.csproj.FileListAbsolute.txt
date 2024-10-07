@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\bin\Debug\UsernameValidationException.dll
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\bin\Debug\UsernameValidationException.pdb
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\obj\Debug\UsernameValidationException.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\obj\Debug\UsernameValidationException.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\obj\Debug\UsernameValidationException.dll
+D:\Hexaware Training\C#Repo\C#Training\CustomException\UsernameValidationException\obj\Debug\UsernameValidationException.pdb

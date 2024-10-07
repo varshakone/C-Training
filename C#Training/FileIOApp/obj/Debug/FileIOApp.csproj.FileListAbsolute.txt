@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\bin\Debug\FileIOApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\bin\Debug\FileIOApp.exe
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\bin\Debug\FileIOApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\obj\Debug\FileIOApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\obj\Debug\FileIOApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\obj\Debug\FileIOApp.exe
+D:\Hexaware Training\C#Repo\C#Training\FileIOApp\obj\Debug\FileIOApp.pdb

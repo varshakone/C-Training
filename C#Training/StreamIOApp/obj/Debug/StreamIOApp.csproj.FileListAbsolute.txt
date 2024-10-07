@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\bin\Debug\StreamIOApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\bin\Debug\StreamIOApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\bin\Debug\StreamIOApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\obj\Debug\StreamIOApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\obj\Debug\StreamIOApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\obj\Debug\StreamIOApp.exe
+D:\Hexaware Training\C#Repo\C#Training\StreamIOApp\obj\Debug\StreamIOApp.pdb

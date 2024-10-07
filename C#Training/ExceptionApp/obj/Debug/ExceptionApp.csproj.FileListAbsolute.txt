@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\bin\Debug\ExceptionApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\bin\Debug\ExceptionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\bin\Debug\ExceptionApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\bin\Debug\ExceptionLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\bin\Debug\ExceptionLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\obj\Debug\ExceptionApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\obj\Debug\ExceptionApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\obj\Debug\Exceptio.275E27B1.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\obj\Debug\ExceptionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ExceptionApp\obj\Debug\ExceptionApp.pdb

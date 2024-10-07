@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D42B2-8048-4262-A7DE-096E7472F25B}|..\\FileIOWithFileInfo\\FileIOWithFileInfo.csproj|d:\\hexaware training\\c#repo\\c#training\\fileiowithfileinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C73737F-1951-42B0-80B6-A585F4039781}|..\\StreamIOApp\\StreamIOApp.csproj|d:\\hexaware training\\c#repo\\c#training\\streamioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D1C2F1-8AD7-4D9B-8E7A-F8361AD829F8}|FileIOApp.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D1C2F1-8AD7-4D9B-8E7A-F8361AD829F8}|FileIOApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOWithFileInfo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FileIOWithFileInfo\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOWithFileInfo\\Program.cs",
+              "RelativeToolTip": "..\\FileIOWithFileInfo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:11:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\StreamIOApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StreamIOApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\StreamIOApp\\Program.cs",
+              "RelativeToolTip": "..\\StreamIOApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:47:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\FileIOApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:30:38.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
