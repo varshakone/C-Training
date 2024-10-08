@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\ado.net\\connectedarchitecturelibrary\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|solutionrelative:dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123523F0-2C44-4E52-9780-98B93609D5C1}|..\\ConnectedApp\\ConnectedApp.csproj|d:\\hexaware training\\c#repo\\c#training\\ado.net\\connectedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\employeedbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08064BCE-3333-469D-88B8-73187003C9B5}|ConnectedArchitectureLibrary.csproj|solutionrelative:employeedbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DBUtil.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\DBUtil.cs",
+              "RelativeToolTip": "DBUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:43:48.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:51:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConnectedApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedApp\\Program.cs",
+              "RelativeToolTip": "..\\ConnectedApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:45:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDBManipulation.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\EmployeeDBManipulation.cs",
+              "RelativeDocumentMoniker": "EmployeeDBManipulation.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ADO.Net\\ConnectedArchitectureLibrary\\EmployeeDBManipulation.cs",
+              "RelativeToolTip": "EmployeeDBManipulation.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:27:17.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

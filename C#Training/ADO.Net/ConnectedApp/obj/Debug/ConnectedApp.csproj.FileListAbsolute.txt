@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\bin\Debug\ConnectedApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\bin\Debug\ConnectedApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\bin\Debug\ConnectedApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\bin\Debug\ConnectedArchitectureLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\bin\Debug\ConnectedArchitectureLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\obj\Debug\ConnectedApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\obj\Debug\ConnectedApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\obj\Debug\Connecte.F1615BDF.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\obj\Debug\ConnectedApp.exe
+D:\Hexaware Training\C#Repo\C#Training\ADO.Net\ConnectedApp\obj\Debug\ConnectedApp.pdb

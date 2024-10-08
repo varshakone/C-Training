@@ -24,15 +24,30 @@ namespace EventApp
             //step4 raise or start event
             click(fn, ln);
         }
+
+        public void dowork(Action<string> fn)
+        {
+            fn("Hello");
+        }
     }
     internal class Program
     {
+        static void sendback(string fn)
+        {
+            Console.WriteLine(fn);
+        }
         static void Main(string[] args)
         {
             //step3 register/hookingup method with event
             button buttonclick= new button();
-            buttonclick.click  = new buttonHandler(buttonclick.eventHandler);
-            buttonclick.raiseEvent("abcd", "xyz");
+            //buttonclick.click  = new buttonHandler(buttonclick.eventHandler);
+            //buttonclick.raiseEvent("abcd", "xyz");
+
+         buttonclick.dowork(sendback);
+
+
+            
+
 
             Console.ReadKey();
 

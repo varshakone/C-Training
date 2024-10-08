@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9097F009-CBCF-4CD4-AD17-21B588F0A952}|..\\IndexerApp\\IndexerApp.csproj|d:\\hexaware training\\c#repo\\c#training\\indexerapp\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9097F009-CBCF-4CD4-AD17-21B588F0A952}|..\\IndexerApp\\IndexerApp.csproj|d:\\hexaware training\\c#repo\\c#training\\indexerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A1079-442C-4F1A-A23F-54DC24886478}|..\\NonGeneric_GenericCollectionApp\\NonGeneric_GenericCollectionApp.csproj|d:\\hexaware training\\c#repo\\c#training\\nongeneric_genericcollectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|d:\\hexaware training\\c#repo\\c#training\\nongeneric_genericcollection\\non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|solutionrelative:non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|d:\\hexaware training\\c#repo\\c#training\\nongeneric_genericcollection\\genericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|solutionrelative:genericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9097F009-CBCF-4CD4-AD17-21B588F0A952}|..\\IndexerApp\\IndexerApp.csproj|d:\\hexaware training\\c#repo\\c#training\\indexerapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|d:\\hexaware training\\c#repo\\c#training\\nongeneric_genericcollection\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B1036-D85D-4747-8AA7-0225B1A77075}|NonGeneric_GenericCollection.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\Student.cs",
+              "RelativeDocumentMoniker": "..\\IndexerApp\\Student.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\Student.cs",
+              "RelativeToolTip": "..\\IndexerApp\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:45:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\StudentList.cs",
+              "RelativeDocumentMoniker": "..\\IndexerApp\\StudentList.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\StudentList.cs",
+              "RelativeToolTip": "..\\IndexerApp\\StudentList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:45:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\IndexerApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\IndexerApp\\Program.cs",
+              "RelativeToolTip": "..\\IndexerApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA0wA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NonGeneric_GenericCollectionApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollectionApp\\Program.cs",
+              "RelativeToolTip": "..\\NonGeneric_GenericCollectionApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:50:36.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:46:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericCollection.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\GenericCollection.cs",
+              "RelativeDocumentMoniker": "GenericCollection.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\GenericCollection.cs",
+              "RelativeToolTip": "GenericCollection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowHwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:29:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Non_Generic.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\Non_Generic.cs",
+              "RelativeDocumentMoniker": "Non_Generic.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NonGeneric_GenericCollection\\Non_Generic.cs",
+              "RelativeToolTip": "Non_Generic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:28:56.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

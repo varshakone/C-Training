@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\bin\Debug\NonGeneric_GenericCollection.dll
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\bin\Debug\NonGeneric_GenericCollection.pdb
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\obj\Debug\NonGeneric_GenericCollection.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\obj\Debug\NonGeneric_GenericCollection.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\obj\Debug\NonGeneric_GenericCollection.dll
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollection\obj\Debug\NonGeneric_GenericCollection.pdb

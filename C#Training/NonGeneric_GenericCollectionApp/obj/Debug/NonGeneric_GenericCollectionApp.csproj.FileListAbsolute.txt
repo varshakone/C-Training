@@ -1,0 +1,10 @@
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\bin\Debug\NonGeneric_GenericCollectionApp.exe.config
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\bin\Debug\NonGeneric_GenericCollectionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\bin\Debug\NonGeneric_GenericCollectionApp.pdb
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\bin\Debug\NonGeneric_GenericCollection.dll
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\bin\Debug\NonGeneric_GenericCollection.pdb
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\obj\Debug\NonGeneric_GenericCollectionApp.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\obj\Debug\NonGeneric_GenericCollectionApp.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\obj\Debug\NonGener.3443EAAC.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\obj\Debug\NonGeneric_GenericCollectionApp.exe
+D:\Hexaware Training\C#Repo\C#Training\NonGeneric_GenericCollectionApp\obj\Debug\NonGeneric_GenericCollectionApp.pdb
