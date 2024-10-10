@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ConstraintModelLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B46C65-11BA-4990-8E19-7AA44D6F2A44}|..\\ContraintModel-TestProject\\ContraintModel-TestProject.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\contraintmodel-testproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90133C-0845-4F1F-A484-54058983CDD4}|ConstraintModelLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\constraintmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90133C-0845-4F1F-A484-54058983CDD4}|ConstraintModelLibrary.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90133C-0845-4F1F-A484-54058983CDD4}|ConstraintModelLibrary.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\constraintmodellibrary\\dbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90133C-0845-4F1F-A484-54058983CDD4}|ConstraintModelLibrary.csproj|solutionrelative:dbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ContraintModel-TestProject\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ContraintModel-TestProject\\Class1.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ContraintModel-TestProject\\Class1.cs",
+              "RelativeToolTip": "..\\ContraintModel-TestProject\\Class1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:35:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ConstraintModelLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ConstraintModelLibrary\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:28:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManipulation.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ConstraintModelLibrary\\DBManipulation.cs",
+              "RelativeDocumentMoniker": "DBManipulation.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\ConstraintModelLibrary\\DBManipulation.cs",
+              "RelativeToolTip": "DBManipulation.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:27:04.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\bin\Debug\ConstraintModelLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\bin\Debug\ConstraintModelLibrary.pdb
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\obj\Debug\ConstraintModelLibrary.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\obj\Debug\ConstraintModelLibrary.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\obj\Debug\ConstraintModelLibrary.dll
+D:\Hexaware Training\C#Repo\C#Training\NUnit\ConstraintModelLibrary\obj\Debug\ConstraintModelLibrary.pdb
