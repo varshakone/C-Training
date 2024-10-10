@@ -17,24 +17,34 @@ namespace ConnectedArchitectureLibrary
         public void getEmployeeDetails()
         {
             //open the connection
-            var conn = DBUtil.getDBConnection();
-            conn.Open();
-
-            //fire query
-            SqlCommand cmd = new SqlCommand();
-            cmd.CommandText = "select * from Employee";
-            cmd.Connection = conn;
-
-           SqlDataReader sqlDataReader = cmd.ExecuteReader();
-
-            Console.WriteLine("Employee ID\tEmployee Name\tEmployee Address\tEmployee Salary\tEmployee Manager ");
-            while ( sqlDataReader.Read())
+            using(var conn = DBUtil.getDBConnection())
             {
-                Console.WriteLine(sqlDataReader["Emp_ID"] + "\t\t "+ sqlDataReader[1]
-                    
-                    + "\t \t " + sqlDataReader[2] + "\t\t " + sqlDataReader[3] + "\t\t " + sqlDataReader[4]);
+                conn.Open();
+
+                //fire query
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandText = "select * from Employee";
+                cmd.Connection = conn;
+
+                SqlDataReader sqlDataReader = cmd.ExecuteReader();
+
+                Console.WriteLine("Employee ID\tEmployee Name\tEmployee Address\tEmployee Salary\tEmployee Manager ");
+
+                Console.WriteLine("Column Ordinal " + sqlDataReader.GetOrdinal("Emp_Name") + sqlDataReader.GetSqlString(0));
+                while (sqlDataReader.Read())
+                {
+                    Console.WriteLine(sqlDataReader["Emp_ID"] + "\t\t " + sqlDataReader[1]
+
+                        + "\t \t " + sqlDataReader[2] + "\t\t " + sqlDataReader[3] + "\t\t " + sqlDataReader[4]);
+                }
+
+
+                sqlDataReader.Close();
+
+
             }
-            sqlDataReader.Close();
+
+
 
             //can't reread record as reader is closed / you can read sequentially
             //while (sqlDataReader.Read())
@@ -46,7 +56,7 @@ namespace ConnectedArchitectureLibrary
 
 
             //close the connection
-            conn.Close();
+            
         }
 
         public void newEmployee(Employee employee)

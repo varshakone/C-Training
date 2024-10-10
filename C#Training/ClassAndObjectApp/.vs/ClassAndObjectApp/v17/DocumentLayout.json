@@ -31,12 +31,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -47,8 +43,7 @@
               "RelativeToolTip": "..\\CompositionRelationApp\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:15:57.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T11:15:57.484Z"
             },
             {
               "$type": "Document",
@@ -60,8 +55,7 @@
               "RelativeToolTip": "..\\CompositionRelationApp\\Student.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:06:46.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T11:06:46.559Z"
             },
             {
               "$type": "Document",
@@ -73,8 +67,7 @@
               "RelativeToolTip": "..\\CompositionRelationApp\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:05:21.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T11:05:21.118Z"
             },
             {
               "$type": "Document",
@@ -99,8 +92,7 @@
               "RelativeToolTip": "..\\AutoImplementedPropertyApp\\Bank.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:20:27.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:20:27.18Z"
             },
             {
               "$type": "Document",
@@ -112,8 +104,7 @@
               "RelativeToolTip": "..\\AutoImplementedPropertyApp\\ATM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:19:26.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:19:26.752Z"
             },
             {
               "$type": "Document",
@@ -125,8 +116,7 @@
               "RelativeToolTip": "..\\AutoImplementedPropertyApp\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAD4vxUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:19:06.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:19:06.492Z"
             }
           ]
         }

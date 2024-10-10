@@ -1,0 +1,6 @@
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\bin\Debug\MathManipulation-BusinessLogicLayer.dll
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\bin\Debug\MathManipulation-BusinessLogicLayer.pdb
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\obj\Debug\MathManipulation-BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\obj\Debug\MathManipulation-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\obj\Debug\MathManipulation-BusinessLogicLayer.dll
+D:\Hexaware Training\C#Repo\C#Training\NUnit\MathManipulation-BusinessLogicLayer\obj\Debug\MathManipulation-BusinessLogicLayer.pdb

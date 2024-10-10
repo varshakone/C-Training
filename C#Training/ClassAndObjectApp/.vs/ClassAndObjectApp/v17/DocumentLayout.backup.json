@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\ClassAndObjectApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F43B062-0504-48EB-85C4-C9A201C3736C}|..\\CompositionRelationApp\\CompositionRelationApp.csproj|d:\\hexaware training\\c#repo\\c#training\\compositionrelationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B062-0504-48EB-85C4-C9A201C3736C}|..\\CompositionRelationApp\\CompositionRelationApp.csproj|d:\\hexaware training\\c#repo\\c#training\\compositionrelationapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9036C50E-F4F8-42A9-BA59-BAD3B55B00F3}|..\\AutoImplementedPropertyApp\\AutoImplementedPropertyApp.csproj|d:\\hexaware training\\c#repo\\c#training\\autoimplementedpropertyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B062-0504-48EB-85C4-C9A201C3736C}|..\\CompositionRelationApp\\CompositionRelationApp.csproj|d:\\hexaware training\\c#repo\\c#training\\compositionrelationapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B062-0504-48EB-85C4-C9A201C3736C}|..\\CompositionRelationApp\\CompositionRelationApp.csproj|d:\\hexaware training\\c#repo\\c#training\\compositionrelationapp\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9036C50E-F4F8-42A9-BA59-BAD3B55B00F3}|..\\AutoImplementedPropertyApp\\AutoImplementedPropertyApp.csproj|d:\\hexaware training\\c#repo\\c#training\\autoimplementedpropertyapp\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,43 +31,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bank.cs",
-              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Bank.cs",
-              "RelativeDocumentMoniker": "..\\AutoImplementedPropertyApp\\Bank.cs",
-              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Bank.cs",
-              "RelativeToolTip": "..\\AutoImplementedPropertyApp\\Bank.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Course.cs",
+              "RelativeDocumentMoniker": "..\\CompositionRelationApp\\Course.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Course.cs",
+              "RelativeToolTip": "..\\CompositionRelationApp\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:20:27.18Z",
+              "WhenOpened": "2024-10-03T11:15:57.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ATM.cs",
-              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\ATM.cs",
-              "RelativeDocumentMoniker": "..\\AutoImplementedPropertyApp\\ATM.cs",
-              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\ATM.cs",
-              "RelativeToolTip": "..\\AutoImplementedPropertyApp\\ATM.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Student.cs",
+              "RelativeDocumentMoniker": "..\\CompositionRelationApp\\Student.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Student.cs",
+              "RelativeToolTip": "..\\CompositionRelationApp\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:19:26.752Z",
+              "WhenOpened": "2024-10-03T11:06:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Address.cs",
+              "RelativeDocumentMoniker": "..\\CompositionRelationApp\\Address.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Address.cs",
+              "RelativeToolTip": "..\\CompositionRelationApp\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:05:21.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CompositionRelationApp\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\CompositionRelationApp\\Program.cs",
+              "RelativeToolTip": "..\\CompositionRelationApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:04:42.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Bank.cs",
+              "RelativeDocumentMoniker": "..\\AutoImplementedPropertyApp\\Bank.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Bank.cs",
+              "RelativeToolTip": "..\\AutoImplementedPropertyApp\\Bank.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:20:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\ATM.cs",
+              "RelativeDocumentMoniker": "..\\AutoImplementedPropertyApp\\ATM.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\ATM.cs",
+              "RelativeToolTip": "..\\AutoImplementedPropertyApp\\ATM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:26.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\AutoImplementedPropertyApp\\Program.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\AutoImplementedPropertyApp\\Program.cs",
               "RelativeToolTip": "..\\AutoImplementedPropertyApp\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T06:19:06.492Z",
               "EditorCaption": ""

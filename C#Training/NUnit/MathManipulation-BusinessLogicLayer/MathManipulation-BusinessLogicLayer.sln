@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathManipulation-BusinessLogicLayer", "MathManipulation-BusinessLogicLayer.csproj", "{E490215B-44C3-43FB-BDB7-0D47CEFA193F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathManipulation-TestProject", "..\MathManipulation_TestProject\MathManipulation-TestProject.csproj", "{2087B359-AC74-4ACC-BEDB-5B288326E4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E490215B-44C3-43FB-BDB7-0D47CEFA193F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E490215B-44C3-43FB-BDB7-0D47CEFA193F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E490215B-44C3-43FB-BDB7-0D47CEFA193F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E490215B-44C3-43FB-BDB7-0D47CEFA193F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2087B359-AC74-4ACC-BEDB-5B288326E4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2087B359-AC74-4ACC-BEDB-5B288326E4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2087B359-AC74-4ACC-BEDB-5B288326E4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2087B359-AC74-4ACC-BEDB-5B288326E4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA97574-FA6D-4970-8A08-D539FF687463}
+	EndGlobalSection
+EndGlobal

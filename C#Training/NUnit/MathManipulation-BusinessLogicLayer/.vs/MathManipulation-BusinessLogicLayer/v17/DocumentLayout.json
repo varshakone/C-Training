@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation-BusinessLogicLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2087B359-AC74-4ACC-BEDB-5B288326E4B0}|..\\MathManipulation_TestProject\\MathManipulation-TestProject.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\mathmanipulation_testproject\\mathrepositoryinheritancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2087B359-AC74-4ACC-BEDB-5B288326E4B0}|..\\MathManipulation_TestProject\\MathManipulation-TestProject.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\mathmanipulation_testproject\\mathwithparametertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2087B359-AC74-4ACC-BEDB-5B288326E4B0}|..\\MathManipulation_TestProject\\MathManipulation-TestProject.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\mathmanipulation_testproject\\mathrepositorywithsetupandteardowntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490215B-44C3-43FB-BDB7-0D47CEFA193F}|MathManipulation-BusinessLogicLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\mathmanipulation-businesslogiclayer\\mathrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490215B-44C3-43FB-BDB7-0D47CEFA193F}|MathManipulation-BusinessLogicLayer.csproj|solutionrelative:mathrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2087B359-AC74-4ACC-BEDB-5B288326E4B0}|..\\MathManipulation_TestProject\\MathManipulation-TestProject.csproj|d:\\hexaware training\\c#repo\\c#training\\nunit\\mathmanipulation_testproject\\mathrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathRepositoryWithSetUpAndTearDownTest.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryWithSetUpAndTearDownTest.cs",
+              "RelativeDocumentMoniker": "..\\MathManipulation_TestProject\\MathRepositoryWithSetUpAndTearDownTest.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryWithSetUpAndTearDownTest.cs",
+              "RelativeToolTip": "..\\MathManipulation_TestProject\\MathRepositoryWithSetUpAndTearDownTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:30:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathWithParameterTest.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathWithParameterTest.cs",
+              "RelativeDocumentMoniker": "..\\MathManipulation_TestProject\\MathWithParameterTest.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathWithParameterTest.cs",
+              "RelativeToolTip": "..\\MathManipulation_TestProject\\MathWithParameterTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:33:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathRepositoryInheritanceTest.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryInheritanceTest.cs",
+              "RelativeDocumentMoniker": "..\\MathManipulation_TestProject\\MathRepositoryInheritanceTest.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryInheritanceTest.cs",
+              "RelativeToolTip": "..\\MathManipulation_TestProject\\MathRepositoryInheritanceTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:20:12.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\MathManipulation_TestProject\\MathRepositoryTest.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation_TestProject\\MathRepositoryTest.cs",
+              "RelativeToolTip": "..\\MathManipulation_TestProject\\MathRepositoryTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:26:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathRepository.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation-BusinessLogicLayer\\MathRepository.cs",
+              "RelativeDocumentMoniker": "MathRepository.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\NUnit\\MathManipulation-BusinessLogicLayer\\MathRepository.cs",
+              "RelativeToolTip": "MathRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:23:13.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

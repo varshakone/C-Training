@@ -14,7 +14,7 @@ namespace ConnectedApp
             try
             {
                 EmployeeDBManipulation employeeDBManipulation = new EmployeeDBManipulation();
-                //employeeDBManipulation.getEmployeeDetails();
+                employeeDBManipulation.getEmployeeDetails();
 
                 //employeeDBManipulation.newEmployee(new Employee()
                 //{
@@ -35,7 +35,7 @@ namespace ConnectedApp
                 //});
 
                 // employeeDBManipulation.removeEmployee(1002);
-                employeeDBManipulation.maxSalary();
+                //employeeDBManipulation.maxSalary();
             }
             catch (Exception ex)
             {

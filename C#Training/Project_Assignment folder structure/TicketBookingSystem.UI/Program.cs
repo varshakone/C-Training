@@ -16,7 +16,7 @@ namespace TicketBookingSystem.UI
         {
             EventRepository eventRepository = new EventRepository();
             EventService service = new EventService(eventRepository);
-           
+                    
             service.addCustomer(new Customer() { Id = 1 ,Name="xyz",Address="Abc"});
 
             Console.ReadKey();

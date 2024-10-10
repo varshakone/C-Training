@@ -3,11 +3,10 @@
   "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,10 +15,11 @@
       "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBD25F60-78F9-4B31-A1A9-00868F6E92BF}|..\\TicketBookingSystem.UI\\TicketBookingSystem.UI.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8124D807-F4C1-4F42-80F1-BB06BB24D780}|TicketBookingSystem.Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBD25F60-78F9-4B31-A1A9-00868F6E92BF}|..\\TicketBookingSystem.UI\\TicketBookingSystem.UI.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39E63458-9E4E-4719-8E18-F7CE2C4A7EAE}|..\\TicketBookingSystem.BusinessLayer\\TicketBookingSystem.BusinessLayer.csproj|d:\\hexaware training\\c#repo\\c#training\\project_assignment folder structure\\ticketbookingsystem.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.UI\\Program.cs",
               "RelativeDocumentMoniker": "..\\TicketBookingSystem.UI\\Program.cs",
@@ -54,28 +54,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EventService.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Services\\EventService.cs",
               "RelativeDocumentMoniker": "..\\TicketBookingSystem.BusinessLayer\\Services\\EventService.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Services\\EventService.cs",
               "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Services\\EventService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:57:56.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IEventService.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Services\\IEventService.cs",
               "RelativeDocumentMoniker": "..\\TicketBookingSystem.BusinessLayer\\Services\\IEventService.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Services\\IEventService.cs",
               "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Services\\IEventService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:57:19.692Z"
+              "WhenOpened": "2024-10-04T10:57:19.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,7 +86,7 @@
               "RelativeDocumentMoniker": "..\\TicketBookingSystem.BusinessLayer\\Repository\\EventRepository.cs",
               "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.BusinessLayer\\Repository\\EventRepository.cs",
               "RelativeToolTip": "..\\TicketBookingSystem.BusinessLayer\\Repository\\EventRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:56:09.186Z",
               "EditorCaption": ""
@@ -140,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\Project_Assignment folder structure\\TicketBookingSystem.Entity\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
