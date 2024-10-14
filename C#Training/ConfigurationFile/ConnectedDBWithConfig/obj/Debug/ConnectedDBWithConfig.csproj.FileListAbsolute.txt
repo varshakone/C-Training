@@ -1,0 +1,7 @@
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\bin\Debug\ConnectedDBWithConfig.dll.config
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\bin\Debug\ConnectedDBWithConfig.dll
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\bin\Debug\ConnectedDBWithConfig.pdb
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\obj\Debug\ConnectedDBWithConfig.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\obj\Debug\ConnectedDBWithConfig.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\obj\Debug\ConnectedDBWithConfig.dll
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\ConnectedDBWithConfig\obj\Debug\ConnectedDBWithConfig.pdb

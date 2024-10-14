@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\connecteddbwithconfig\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|solutionrelative:employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\connecteddbwithconfig\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|solutionrelative:employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C4B7A-69B3-41A6-96CD-0894F960A45A}|..\\EmployeeManagement\\EmployeeManagement.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MyTrainingDB/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09C4B7A-69B3-41A6-96CD-0894F960A45A}|..\\EmployeeManagement\\EmployeeManagement.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\employeemanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\connecteddbwithconfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\connecteddbwithconfig\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|solutionrelative:dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|d:\\hexaware training\\c#repo\\c#training\\configurationfile\\connecteddbwithconfig\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F04962B-7757-4B7B-BB58-E85B537C4D46}|ConnectedDBWithConfig.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:12:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Employee [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MyTrainingDB/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "dbo.Employee [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T05:01:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\EmployeeManagement\\App.config",
+              "RelativeDocumentMoniker": "..\\EmployeeManagement\\App.config",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\EmployeeManagement\\App.config",
+              "RelativeToolTip": "..\\EmployeeManagement\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T04:55:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeManagement\\Program.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "..\\EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:52:48.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:49:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T04:32:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DBUtil.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\DBUtil.cs",
+              "RelativeToolTip": "DBUtil.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:28:51.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeRepository.cs",
+              "ToolTip": "D:\\Hexaware Training\\C#Repo\\C#Training\\ConfigurationFile\\ConnectedDBWithConfig\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:24:19.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

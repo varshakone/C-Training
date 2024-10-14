@@ -1,0 +1,11 @@
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\ConnectedDBWithConfig.dll
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\ConnectedDBWithConfig.pdb
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\bin\Debug\ConnectedDBWithConfig.dll.config
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\obj\Debug\Employee.61744648.Up2Date
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+D:\Hexaware Training\C#Repo\C#Training\ConfigurationFile\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
